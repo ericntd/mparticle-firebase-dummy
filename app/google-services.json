@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105628164874",
+    "project_id": "mparticle-firebase-dummy",
+    "storage_bucket": "mparticle-firebase-dummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105628164874:android:937845d13f97ba4aedd0f3",
+        "android_client_info": {
+          "package_name": "com.example.mparticlefirebasedummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105628164874-ijmiq89qb830aludo1pfoafqeqr7ma40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PQ8aPKOYdgn8hflj6OFVSZdljEJA19s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105628164874-ijmiq89qb830aludo1pfoafqeqr7ma40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
